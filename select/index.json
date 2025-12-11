@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Go Wild",
+  "base_artist": "ATARASHII GAKKO!",
+  "createdAt": "2025-12-11T12:33:46.278161Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go Wild In The Country",
+      "artist": "Bow Wow Wow",
+      "has_synced": false,
+      "path": "select/01_Go_Wild_In_The_Country_Bow_Wow_Wow.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go Wild In the Country (12\" Version)",
+      "artist": "Bow Wow Wow",
+      "has_synced": false,
+      "path": "select/02_Go_Wild_In_the_Country_(12__Version)_Bow_Wow_Wow.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Girls Go Wild",
+      "artist": "Jeremih",
+      "has_synced": true,
+      "path": "select/03_Girls_Go_Wild_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Go Wild",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/04_I_Go_Wild_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Go Wild (LP Version)",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/05_I_Go_Wild_(LP_Version)_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Go Wild - Live",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/06_I_Go_Wild_-_Live_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Go Wild (Luis Resto Straight Vocal Mix)",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/07_I_Go_Wild_(Luis_Resto_Straight_Vocal_Mix)_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Go Wild (Scott Litt Remix)",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/08_I_Go_Wild_(Scott_Litt_Remix)_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Every Time I See You I Go Wild",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/09_Every_Time_I_See_You_I_Go_Wild_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I go wild",
+      "artist": "Rolling Stones",
+      "has_synced": true,
+      "path": "select/10_I_go_wild_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mary Go Wild!",
+      "artist": "Grooveyard",
+      "has_synced": false,
+      "path": "select/11_Mary_Go_Wild!_Grooveyard.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Go Wild In The Country",
+      "artist": "Bow Wow Wow",
+      "has_synced": true,
+      "path": "select/12_Go_Wild_In_The_Country_Bow_Wow_Wow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Go Wild",
+      "artist": "新しい学校のリーダーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Go_Wild_新しい学校のリーダーズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Go Wild",
+      "artist": "新しい学校のリーダーズ",
+      "has_synced": false,
+      "path": "select/pl_02_Go_Wild_新しい学校のリーダーズ.txt"
+    }
+  ]
+}
